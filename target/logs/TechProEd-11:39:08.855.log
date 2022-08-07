@@ -1,0 +1,5 @@
+2022-06-07 11:39:08,843 INFO c.m.t.Day14_log4j [main] info log
+2022-06-07 11:39:08,856 DEBUG c.m.t.Day14_log4j [main] debug log
+2022-06-07 11:39:08,856 ERROR c.m.t.Day14_log4j [main] error log
+2022-06-07 11:39:08,857 FATAL c.m.t.Day14_log4j [main] fatal log
+2022-06-07 11:39:08,857 WARN c.m.t.Day14_log4j [main] warn log
